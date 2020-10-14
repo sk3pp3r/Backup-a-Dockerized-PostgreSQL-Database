@@ -5,7 +5,9 @@
 # Backup target path - windows share : //server/share/
 # keep backup history: 30 days
 #
-# script editor: Haim Cohen
+# script editor: Haim Cohen 
+# Linkedin: https://www.linkedin.com/in/haimc/
+# Github: https://sk3pp3r.github.io/
 # version:       1.3, Oct 13, 2020
 ################################################################################################################################
 
